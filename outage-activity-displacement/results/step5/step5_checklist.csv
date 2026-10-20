@@ -1,8 +1,0 @@
-Indicator,Value,Threshold,Verdict
-Visits 72+ h coefficient matches Step 2c (difference),+0.000 (-30.8 vs -30.8),|·| < 0.05,pass
-Pooled rural residual gap matches Step 4 (difference),-1.78e-15,|·| < 1e-6,pass
-Share of counties with 72+ h that have income data,1.0,≥ 0.95,pass
-Share of counties with 72+ h that have a rural-urban code,1.0,≥ 0.95,pass
-County-weeks in the main sample with Paychex employment,14076,"≥ 1,000",pass
-Outcomes with too few counties to judge,—,none,pass
-Storms in the Q2 comparison (income / metro),3 / 2,≥ 2,pass

@@ -1,6 +1,0 @@
-Indicator,Value,Threshold,Verdict
-Summed pair flows = panel visits_res (largest relative difference),0.0e+00,< 0.01,pass
-Share of hit county-weeks with a usable baseline,1.0,≥ 0.9,pass
-Comparison counties per event-week (minimum),146,≥ 30,pass
-"Destinations add up to ""extra elsewhere"" (largest difference)",1.1e-13,< 1e-6,pass
-PPML converged,True,True,pass

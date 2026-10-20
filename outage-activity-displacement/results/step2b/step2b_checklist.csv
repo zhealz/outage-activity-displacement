@@ -1,8 +1,0 @@
-Indicator,Value,Threshold,Verdict
-Share of county-weeks with hazard data,1.0,≥ 0.99,pass
-County-weeks at 72–120 h in the main sample,42,≥ 30,pass
-County-weeks at 120+ h in the main sample,16,≥ 15,pass
-Event study: largest absolute coefficient of the 72+ h group in weeks −5 to −3,0.4,≤ 5,pass
-Decision rule part 1 (both bands significantly negative in the main spec),"{'h072': True, 'h120': True}",—,pass
-Decision rule part 2 (a majority of events negative),4 / 4,> 1/2,pass
-"The 120+ h coefficient is negative in S3, S4 and S5","S3 -67.9, S4 -67.3, S5 -68.4",—,pass

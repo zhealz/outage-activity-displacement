@@ -1,4 +1,0 @@
-Question,Value,Conclusion
-R1,"affected AP difference -0.017 [-0.064, +0.032]; 3/4",no
-R2,"unaffected AP difference +0.062 [+0.023, +0.110]",yes
-R3,R² 0.372; AP 0.610 (chance 0.087),yes

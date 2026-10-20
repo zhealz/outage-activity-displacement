@@ -1,9 +1,0 @@
-Question,Value,Conclusion
-Q1a,"revenue -48.8 [-65.5, -32.0], p = 0.001, 8 counties; businesses open -50.7 [-63.7, -37.8], p = 0.001, 8 counties",yes
-Q1b,"below − above median wage -4.7 [-10.9, +1.5], p = 0.238, 12 counties",no clear difference
-Q1c,"residents' spending +11.2 [+5.4, +17.0], p = 0.001, 28 counties",residents spent more
-Q1d,"revenue − visits +18.0 [+6.9, +29.1], p = 0.013, 8 counties",revenue fell less than visits
-Q2 income,"+0.05 [-0.50, +0.30]; lower-income half 0.76, higher-income half 0.81",no clear difference
-Q2 metro,"+0.29 [-2.73, +3.37]; nonmetro 0.57, metro 0.87",no clear difference
-Q3 metro,"-13.0 [-20.0, -6.0], p = 0.001",the model underestimates metro losses more
-Q3 income,"+12.1 [+2.8, +21.5], p = 0.014",the model underestimates higher-income losses more
