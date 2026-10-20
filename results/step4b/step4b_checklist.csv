@@ -1,0 +1,4 @@
+Indicator,Value,Threshold,Verdict
+"""All"" model matches Step 4's predictions (largest difference)",7.1e-15,< 1e-6,pass
+Large drops in the affected part,55,≥ 30,pass
+Large drops in the unaffected part,197,≥ 30,pass

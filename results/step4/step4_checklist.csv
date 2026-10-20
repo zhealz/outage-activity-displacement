@@ -1,0 +1,5 @@
+Indicator,Value,Threshold,Verdict
+Evaluation county-weeks per held-out storm (minimum),636,≥ 200,pass
+Large drops in the pooled evaluation set,252,≥ 30,pass
+Uri is in no training set,True,True,pass
+At least 30 reference counties per event-week,146,≥ 30,pass

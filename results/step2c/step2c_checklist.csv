@@ -1,0 +1,9 @@
+Indicator,Value,Threshold,Verdict
+"Check 1: HxW controls, all counties","-30.8 [-39.8, -21.8], n = 58",significantly negative,pass
+Check 2: county × event fixed effects,"-29.7 [-37.3, -22.2], n = 58",significantly negative,pass
+Check 3a: wild cluster bootstrap p-value,0.0,< 0.05,pass
+Check 3b: without Ida,"-20.1 [-29.5, -10.7], n = 35",significantly negative,pass
+Check 3c: without Laura,"-33.8 [-44.7, -22.9], n = 39",significantly negative,pass
+Check 4: counties more than 25 km from the coast,"-24.7 [-33.2, -16.2], n = 44",significantly negative,pass
+Reference: mean coefficient of the 72+ h group in weeks 3–6 (HxW),+1.4 (S3: +2.3),|·| ≤ 1.5,pass
+Reference: county-weeks at 72+ h in the inland sample,44,≥ 15,pass

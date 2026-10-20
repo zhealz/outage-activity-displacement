@@ -1,0 +1,7 @@
+Indicator,Value,Threshold,Verdict
+Events without unfilled long gaps around the peak,6 / 6,= 6,pass
+"Share of counties with 24+ h outages that have travel data on ≥ 90% of days, lowest event",1.0,≥ 0.8,pass
+"Agreement with the companion project's outage-duration ranking (Spearman), lowest event",0.99,≥ 0.9,pass
+"Share of study-area counties present in the 2019 network, lowest event",1.0,≥ 0.95,pass
+"Share of affected counties with a contaminated baseline, highest event",0.23,≤ 0.25,pass
+Counties with Womply data and 24+ h outages (four events together),88,≥ 30,pass
