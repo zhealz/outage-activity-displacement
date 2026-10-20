@@ -1,0 +1,7 @@
+Indicator,Value,Threshold,Verdict
+Share of county-weeks with gust data,1.0,≥ 0.99,pass
+Share of county-weeks with rainfall data,1.0,≥ 0.99,pass
+Event-weeks with fewer than 7 PRISM days,0.0,= 0,pass
+"Spearman between gust and outage duration, lowest windstorm",0.05,≥ 0.3,fail
+"Uri, week 0: lowest temperature in Texas counties (median, °C)",-17.4,≤ −10,pass
+"Ice storm: frozen precipitation in Oklahoma counties with 24+ h outages (median, mm)",39.5,≥ 10,pass

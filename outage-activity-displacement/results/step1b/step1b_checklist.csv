@@ -1,0 +1,9 @@
+Indicator,Value,Threshold,Verdict
+Events without unfilled long gaps around the peak,8 / 8,= 8,pass
+All GeoDS weeks downloaded,56 / 56,= 56,pass
+"Share of counties with 24+ h outages that have a visits change in weeks 0 and 1, lowest event",0.85,≥ 0.9,fail
+"Agreement with the companion project's outage-duration ranking (Spearman), lowest event",0.99,≥ 0.9,pass
+"Share of study-area counties present in the 2019 network, lowest event",1.0,≥ 0.95,pass
+"Share of affected counties with flag_base, highest event",0.08,≤ 0.1,pass
+Affected counties with flag_prior (eight events together),37,—,for information
+Counties with Womply data and 24+ h outages (eight events together),149,≥ 30,pass
